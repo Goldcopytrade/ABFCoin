@@ -6,7 +6,7 @@
   <h1>
 </div>
 
-# The entire of Abacus (ABF) ecosystem consists of a subset of all DeFi Technologies including Staking, Marketplace, ABF Payment, DEX & CEX Exchange. Revolution the Future of WEB3 technology
+The entire of Abacus (ABF) ecosystem consists of a subset of all DeFi Technologies including Staking, Marketplace, ABF Payment, DEX & CEX Exchange. Revolution the Future of WEB3 technology
 # Web3 Staking
 
 Passive income generation technology running through the Binance blockchain

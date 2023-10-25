@@ -9,7 +9,7 @@
 The entire of Abacus (ABF) ecosystem consists of a subset of all DeFi Technologies including Staking, Marketplace, ABF Payment, DEX & CEX Exchange. Revolution the Future of WEB3 technology
 # Web3 Staking
 
-Passive income generation technology running through the Binance blockchain
+Passive income generation technology running through the Binance blockchain. Staking is the best way to get profit from your HAPPY in Standard and Liquidity Pools High APY with no RISK!
 
 # Payment gateway
 KWCCoin payment gateway. we built tokens on Binance smart chain as a highly secure blockchain payment gateway. It offers low fees and supports leading exchanges. can also be used to pay for goods discount 10% all transaction. marketing section is expanding as a payment gateway on coinpayment.net our growing partnerships in the future.

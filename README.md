@@ -1,4 +1,4 @@
-# Decentralized Platform for WEB3 Technology
+# Abacus (ABF) Decentralized Platform for WEB3 Technology
 
 <div align="center"><img src="https://kwcoin.co/page/wp-content/uploads/2023/07/KWC300x300.fw_-1.png)" /><br />
 </div>

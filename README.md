@@ -29,5 +29,5 @@ ABFEx is your gateway to a world of seamless cryptocurrency exchange. With a use
 
 🚀 Telegram Group : 
 
-🌐 Smart Contract : https://bscscan.com/token/0x6cedadb0b66e57a5a3bf3122f6a1bd6d2e65bc5c
+🌐 Smart Contract : https://bscscan.com/token/0x1e1d0c148d48875a63ecafa90b9dcbb73dbe5302
 # ABFCoin

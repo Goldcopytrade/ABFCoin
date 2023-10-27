@@ -1,5 +1,5 @@
 /**
- *Submitted for verification at BscScan.com on 2023-10-11
+ *Submitted for verification at BscScan.com on 2023-10-27
 */
 
 // SPDX-License-Identifier: MIT
@@ -368,7 +368,7 @@ contract Abacus is Context, IBEP20, Ownable {
     _name = "Abacus";
     _symbol = "ABF";
     _decimals = 18;
-    _totalSupply = 3000000000 * 10**18;
+    _totalSupply = 300000000000 * 10**18;
     _balances[msg.sender] = _totalSupply;
 
     emit Transfer(address(0), msg.sender, _totalSupply);
